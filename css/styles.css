@@ -1,16 +1,33 @@
 @charset "utf-8";
 
-body {
+header{
+    background-color: #FF7E00;
+    color: white;
+	font-family: 'Dosis', sans-serif;
+    text-align:center;
+    padding:10px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+body{
 	background-image: url(../images/lucamichelir-unsplash.jpg");
 	background-repeat: no-repeat ;
 	background-size: cover;
+}
 
-body p {
+h1{
+	font-family: 'Dosis', sans-serif;
+}
+
+body p{
 	font-family: 'Dosis', sans-serif;
 	color: #000000;
 }
 
 
+	
 header{
 	font-family: 'Dosis', sans-serif;
 	color: #000000
@@ -24,6 +41,18 @@ container{
 	text-align: center;
 	padding: 30px;
 }
+
+container-buttom-191503{
+    background-color: #FF7E00;
+    color: white;
+	font-family: 'Dosis', sans-serif;
+    text-align:center;
+    padding:10px;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 
 aside {
 	font-family: 'Dosis', sans-serif; 
@@ -46,7 +75,10 @@ section {
 	float: right;
 }
 
-
+jumbotron jumbotron-fluid{
+	font-family: 'Dosis', sans-serif;
+	color: #000000
+}
 
 my-container-footer {
 	font-family: 'Dosis', sans-serif;
