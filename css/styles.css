@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+body {
+	background-image: url(../images/lucamichelir-unsplash.jpg");
+	background-repeat: no-repeat ;
+	background-size: cover;
+
+body p {
+	font-family: 'Dosis', sans-serif;
+	color: #000000;
+}
+
+
+header{
+	font-family: 'Dosis', sans-serif;
+	color: #000000
+}
+
+container{
+	position: fixed;
+	width: 100%;
+	background-color: #FFAB59;
+	color: black;
+	text-align: center;
+	padding: 30px;
+}
+
+aside {
+	font-family: 'Dosis', sans-serif; 
+	color: #000000;
+    border: 2px solid #FFCD7C;
+	padding: 40px;
+	margin-left: 25px;
+	width: 42%;
+	float: left;
+}
+
+section {
+	font-family: 'Dosis', sans-serif; 
+	color: #636979;
+    border: 2px solid #FFCD7C;
+	padding: 40px;
+	margin-left: 25px;
+	margin-bottom: 200px;
+	width: 42%;
+	float: right;
+}
+
+
+
+my-container-footer {
+	font-family: 'Dosis', sans-serif;
+	color: #000000
+}
+footer {
+	font-family: 'Dosis', sans-serif;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #FFCD7C;
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
