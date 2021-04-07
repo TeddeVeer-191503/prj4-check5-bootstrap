@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-header{
+.header{
     background-color: #FF7E00;
     color: white;
 	font-family: 'Dosis', sans-serif;
@@ -10,24 +10,18 @@ header{
     left: 0;
     width: 100%;
 }
-
-h1{
+.h1{
 	font-family: 'Dosis', sans-serif;
 }
-
-body p{
+.body p{
 	font-family: 'Dosis', sans-serif;
 	color: #000000;
 }
-
-
-	
-header{
+.header{
 	font-family: 'Dosis', sans-serif;
 	color: #000000
 }
-
-container{
+.container{
 	position: fixed;
 	width: 100%;
 	background-color: #FFAB59;
@@ -35,8 +29,7 @@ container{
 	text-align: center;
 	padding: 30px;
 }
-
-container-buttom-191503{
+.container-buttom-191503{
     background-color: #FF7E00;
     color: white;
 	font-family: 'Dosis', sans-serif;
@@ -46,9 +39,7 @@ container-buttom-191503{
     left: 0;
     width: 100%;
 }
-
-
-aside {
+.aside {
 	font-family: 'Dosis', sans-serif; 
 	color: #000000;
     border: 2px solid #FFCD7C;
@@ -58,7 +49,7 @@ aside {
 	float: left;
 }
 
-section {
+.section {
 	font-family: 'Dosis', sans-serif; 
 	color: #636979;
     border: 2px solid #FFCD7C;
@@ -69,16 +60,16 @@ section {
 	float: right;
 }
 
-jumbotron jumbotron-fluid{
+.jumbotron jumbotron-fluid{
 	font-family: 'Dosis', sans-serif;
 	color: #000000
 }
 
-my-container-footer {
+.my-container-footer {
 	font-family: 'Dosis', sans-serif;
 	color: #000000
 }
-footer {
+.footer {
 	font-family: 'Dosis', sans-serif;
 	position: fixed;
 	left: 0;
