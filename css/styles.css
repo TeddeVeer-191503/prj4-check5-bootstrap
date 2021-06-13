@@ -6,8 +6,8 @@
 	font-family: 'Dosis', sans-serif;
     text-align:center;
     padding:10px;
-    top: 0;
-    left: 0;
+    top: 20;
+    left: 50;
     width: 100%;
 }
 .h1{
@@ -78,25 +78,14 @@
 	padding: 30px;
 }
 
-.footer {
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	background-color: #FFCD7C;
-	color: white;
-	text-align: center;
-	padding: 30px;
-}
-
 .header{
     background-color: #FF7E00;
     color: white;
 	font-family: 'Dosis', sans-serif;
     text-align:center;
     padding:10px;
-    top: 0;
-    left: 0;
+    top: 20;
+    left: 50;
     width: 100%;
 }
 .h1{
